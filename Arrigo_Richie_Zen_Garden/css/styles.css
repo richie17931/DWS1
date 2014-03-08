@@ -1,0 +1,17 @@
+h1 {
+	color: rgb(300,300,300);
+	background-color: DarkCyan;
+	font-size: 3em;
+	font-family: Times New Roman, Arial, sans-serif;
+	padding: 5px; 
+	margin: 0;
+}
+h2 {
+	font-weight: normal;
+	border-bottom: 2px solid DarkCyan;
+}
+p {
+	font-family: Arial, sans-serif;
+	font-size: medium;
+	line-height: 1.25;
+}

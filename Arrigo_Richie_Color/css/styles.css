@@ -1,0 +1,17 @@
+<!--all colors from Adobe Kuler-->
+body{
+	color: rgb(0,0,0);
+	background-color: beige;
+}
+h1{
+	color: rgb(204,91,49);
+	background-color: hsl(120,25.1%,64.9%);
+}
+h2{
+	color: rgb(204,91,49);
+	background-color: palegreen;
+}
+ol{
+	color: #E9967A;
+	background-color: papayawhip;
+}

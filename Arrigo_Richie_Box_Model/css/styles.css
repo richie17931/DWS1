@@ -62,8 +62,6 @@ h5{
 li{
 	display:inline;
 	margin-left:12.5%;
-	padding-left:3px;
-	padding-right:3px;
 	border: 6px groove #393;
 }
 ol{
@@ -91,6 +89,7 @@ p{
 	font-size: 105%;	
 	font-family: Tahoma, Arial;
 }
+
 a:link{
 	color: #1D4BFF;
 	background-color: #0F0;

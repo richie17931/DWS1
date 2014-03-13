@@ -1,2 +1,2 @@
-http://richie17931.github.io/DWS1/Arrigo_Richie_Styling_Text/styling-text.html
+http://richie17931.github.io/DWS1/Arrigo_Richie_Box_Model/box-model.html
 https://github.com/richie17931/DWS1.git

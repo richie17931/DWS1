@@ -61,7 +61,10 @@ h5{
 }
 li{
 	display:inline;
-	padding-left:12.5%;
+	margin-left:12.5%;
+	padding-left:3px;
+	padding-right:3px;
+	border: 6px groove #393;
 }
 ol{
 	word-spacing:100px;

@@ -1,0 +1,123 @@
+body{
+	border: 5px solid black;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	box-shadow: 12px 12px 8.5px #666;
+	
+	padding-left: 6px;
+	padding-right: 6px;
+	width: 75%;
+	margin: 5% 12.5% 5% 12.5%;
+	font-style: normal;
+	color: rgb(0,0,0);
+	background-color: beige;
+}
+div.main{
+	margin-left:12px;
+	width: 70%;
+}
+div.contents{
+	background-color: papayawhip;
+	border: 2px solid black;	
+	margin-bottom: 20px;
+}
+div.info{
+	float: right;
+	font-size: 1.200em;
+	font-style: italic;
+	margin-top: 5%;
+	margin-right: 26px;
+	width: 20%;
+	border: 2px dashed black;
+	clear: both;
+}
+h1{
+	border: 8px double black;
+	text-align: center;
+	text-shadow: 4px 4px 14px #969696;
+	font-style: oblique;
+	font-family: Revalia, Arial Black, Arial, Impact;
+	color: rgb(204,91,49);
+	background-color: hsl(120,25.1%,64.9%);
+}
+h2{
+	border: 4px double black;
+	margin-top: 0px;
+	padding-left: 16px;
+	text-shadow: 4px 4px 14px #969696;
+	font-size: 1.75em;
+	font-family: Averia Sans Libre, Arial;
+	color: rgb(204,91,49);
+	background-color: palegreen;
+}
+h3{
+	border: 2px dotted black;
+	padding-left: 16px;
+	font-style: italic;
+	font-weight: bolder;
+	font-family: Revalia;	
+	background-color: #FFB44A;
+}
+h4{
+	border: 2px dashed black;	
+	padding-left: 16px;
+	margin-top: 0px;
+	margin-bottom: 3px;
+	letter-spacing: 3px;
+	font-size: 1.5em;
+	font-family: Averia Sans Libre, Arial;
+	text-align:center;
+	text-shadow: -4px -4px 16px #969696;
+	text-transform: uppercase;
+	background-color: #FFB44A;
+}
+h5{
+	margin: 10px 0px 10px 5px;
+	font-size:1.05em;
+}
+li{
+	display:inline;
+	margin-left:10%;
+	border: 6px groove #393;
+}
+ol{
+	word-spacing:75px;
+	margin-left:17.5%;
+	margin-top:15px;
+	margin-bottom:10px;
+	line-height: 150%;
+	font-size: 1.25em;
+	color: #E9967A;
+	
+}
+ul{
+	margin-top: 0px;
+	padding-left: 45px;
+	line-height: 150%;
+	font-size: 1.0em;
+	color: #E9967A;
+}
+p{
+	margin-left: 6px;
+	line-height: 125%;
+	font-size: 1.05em;	
+	font-family: Tahoma, Arial;
+}
+
+a:link{
+	color: #1D4BFF;
+	background-color: #0F0;
+}
+a:visited{
+	color: #E000FF;
+	background-color: papayawhip;
+}
+a:hover{
+	color: #E9967A;
+	background-color: white;
+}
+a:active{
+	color: white;
+	background-color: black;
+}

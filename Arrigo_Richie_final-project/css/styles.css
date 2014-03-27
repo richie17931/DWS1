@@ -1,0 +1,116 @@
+body{
+	display: block;
+	background: #ffffff url("../images/seananners-woodcut.png") repeat left top;
+	background-color:#FF9;
+}
+
+header{
+	
+}
+
+footer{
+	margin: 10px;
+}
+
+nav{
+	width: 30%;
+	margin: 10px;
+	padding: 5px;
+	padding-left: 25px;
+	border: 4px dashed black; 
+	background-color: beige;
+	list-style-type: none;
+}
+
+aside{
+	float: right;
+	border: 3px solid black;
+	margin: 3px;
+}
+
+table{
+	width: 40%;
+	border:2px solid black;
+}
+
+th{
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	background-color: #699;
+}
+
+td{
+	text-align:right;
+	border-top:2px solid black;
+}
+
+h1{
+	border: 8px double black;
+	margin-top: 180px;
+	text-shadow: 4px 4px 14px #969696;
+	text-align: center;
+	font-family: Revalia, Arial Black
+	
+	background-color: hsl(120,25.1%,64.9%);
+	background: -moz-radial-gradient(center, ellipse cover, #52b152 14%, #008a00 47%, #005700 85%); /* FF3.6+ */
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(14%,#52b152), color-stop(47%,#008a00), color-stop(85%,#005700)); /* Chrome,Safari4+ */
+	background: -webkit-radial-gradient(center, ellipse cover, #52b152 14%,#008a00 47%,#005700 85%); /* Chrome10+,Safari5.1+ */
+	background: -o-radial-gradient(center, ellipse cover, #52b152 14%,#008a00 47%,#005700 85%); /* Opera 12+ */
+	background: -ms-radial-gradient(center, ellipse cover, #52b152 14%,#008a00 47%,#005700 85%); /* IE10+ */
+}
+
+h2{
+	border: 4px double black;
+	padding-left: 24px;
+	font-family: Averia Sans Libre, Arial;
+		
+	background-color: palegreen;
+	background: -moz-linear-gradient(top, #bfd255 0%, #72aa00 34%, #72aa00 34%, #8eb92a 69%, #9ecb2d 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#bfd255), color-stop(34%,#72aa00), color-stop(34%,#72aa00), 				 			 			    color-stop(69%,#8eb92a), color-stop(100%,#9ecb2d)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #bfd255 0%,#72aa00 34%,#72aa00 34%,#8eb92a 69%,#9ecb2d 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #bfd255 0%,#72aa00 34%,#72aa00 34%,#8eb92a 69%,#9ecb2d 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #bfd255 0%,#72aa00 34%,#72aa00 34%,#8eb92a 69%,#9ecb2d 100%); /* IE10+ */
+}
+
+h2#history{
+	width: 40%;	
+}
+
+p{
+	margin-left: 6px;
+	line-height: 125%;
+	font-size: 1.05em;	
+	font-family: Tahoma, Arial;	
+}
+
+div.box{
+	background: #ffffff url("../images/HeaderPhoto.jpg") no-repeat top center;
+	width: 75%;
+	margin: 0 auto;
+	padding: 10px;
+	
+	border: 6px solid black;
+	border-radius: 16px;
+	-moz-border-radius: 16px;
+	-webkit-border-radius: 16px;
+	box-shadow: 9px 9px 4.5px #666;	
+	
+	background-color: #6F9;
+}
+
+a:link{
+	color: #1D4BFF;
+	background-color: #0F0;
+}
+a:visited{
+	color: #E000FF;
+	background-color: papayawhip;
+}
+a:hover{
+	color: #E9967A;
+	background-color: white;
+}
+a:active{
+	color: white;
+	background-color: black;
+}
